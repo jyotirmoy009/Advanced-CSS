@@ -1,0 +1,12 @@
+TASK1. Explain the purpose of using the var() function in css.
+
+Answer - 
+
+The var() function in CSS has two major purposes:
+
+Custom Properties (CSS Variables): It enables us to include the value of a custom property (also known as a "CSS variable") 
+into other property values. These variables can be defined globally or locally using appropriate selectors.
+
+Dynamic Value Insertion: Using var(), we can define reusable values for properties such as colors, font sizes, and margins. 
+Instead of hardcoding certain values into our styles, we specify them as variables and then reference them as needed. 
+This simplifies maintaining and upgrading our styles. 
